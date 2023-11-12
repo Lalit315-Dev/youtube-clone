@@ -23,4 +23,3 @@ connectToDB()
     console.log('Error while making connection to MONGO DB :', err);
 })
 
-

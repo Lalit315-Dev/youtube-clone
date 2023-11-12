@@ -15,5 +15,3 @@ class ApiError extends Error {
 }
 
 exports.ApiError = ApiError;
-
-console.log('Hello World !!')
